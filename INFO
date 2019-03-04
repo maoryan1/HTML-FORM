@@ -1,0 +1,50 @@
+<html>
+        <head>
+                <title>Person</title>
+                <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        </head>
+        <body>
+                <hr>
+                    <p>First Name:<br> 
+                         <input type="text" id="firstName"/></p>
+                    <p>Last Name:<br> 
+                         <input type="text" id="lastName"/></p>
+                    <p>Birth Date:<br> 
+                         <input type="date" id="birthDate"/></p>
+                    <p>Gender:<br>
+
+                        <input type="radio" name="gender" value="male" checked> Male<br>
+                        <input type="radio" name="gender" value="female"> Female<br>
+                        <input type="radio" name="gender" value="other"> Other</p>
+                         <input type="checkbox"  value="vegeterian"> I am vegeterian 
+                         <p>Country:<br>
+                         <select name="countries">
+                                        <option >Israel</option>
+                                        <option >Paris</option>
+                                        <option >Canada</option>
+                                        <option >USA</option>
+                                      </select> <br>
+
+                                      <br>
+                                                E-mail:<br>
+                                                <input type="email" name="email">
+                                             
+                     <script>
+                    
+               
+                
+                     
+                     
+                     </script>
+                                               
+                                            
+                                       
+                </body>
+ 
+</html>
+
+
+
+
+
+
